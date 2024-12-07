@@ -2,9 +2,9 @@
 
 Un tableau de bord moderne et responsive construit avec HTML et CSS pur, sans dépendances JavaScript supplémentaires (à l'exception de Font Awesome pour les icônes).
 
-![Dashboard Preview](preview.png)
+[Dashboard Preview](preview.png)
 
-##�� Table des matières
+## Table des matières
 
 - [Fonctionnalités](#fonctionnalités)
 - [Technologies utilisées](#technologies-utilisées)
